@@ -18,7 +18,7 @@ servers = {
     "Tool Box Station": ["Toolbox Station", "toolbox"],
     "StarTrek13": ["Star Trek 13", "startrek"],
     "Polaris Station 13": ["Polaris Station", "polaris"],
-    "Paradise Station 13": ["Paradise Station", "paradise", "byond.nanotrasen.se", 6666, "fetch"],
+    "Paradise Station 13": ["Paradise Station", "paradise", "byond.paradisestation.org", 6666, "fetch"],
     "Aurora Station": ["Aurora Station", "ss13"],
     "VOREStation": ["VOREStation", "citadel", "citadel-station.net", 44150, "fetch"],
     "Citadel Station 13": ["Citadel Station", "citadel", "citadel-station.net", 44130, "fetch"],
